@@ -10,8 +10,8 @@ Integrantes - (Usuarios Github:):
 1.- <b>Owen Rivaldo Atamari Aldazabal</b><br>
     <i>theowex</i>
 
-2.- <b>nombre_completo2</b><br>
-    <i>usuario_github2</i>
+2.- <b><i>Javier Enrique Chávez Argueta</i></b><br>
+    <i>JavierChavez-UTEC</i>
 
 3.- <b>nombre_completo3</b><br>
     <i>usuario_github3</i>
