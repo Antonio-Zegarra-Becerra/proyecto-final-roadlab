@@ -13,8 +13,8 @@ Integrantes - (Usuarios Github:):
 2.- <b>Javier Enrique Chávez Argueta</b><br>
     <i>JavierChavez-UTEC</i>
 
-3.- <b>nombre_completo3</b><br>
-    <i>usuario_github3</i>
+3.- <b>Antonio Manuel Zegarra Becerra</b><br>
+    <i>Antonio-Zegarra-Becerra</i>
 
 Instrucciones:
 --
